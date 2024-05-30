@@ -156,7 +156,7 @@ nav {
 }
 
 .div-pt1{
-    background: url("/imagens/bg.jpg") no-repeat center center;
+    background: url("bg.jpg") no-repeat center center;
     background-size: cover;
     min-height: 70vh;
 }
