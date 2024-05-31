@@ -184,28 +184,29 @@ section button{
     display: block;
     transition: 0.3s;
     cursor: pointer;
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.432);
 }
 
 @media (max-width: 999px) {
    
     .pt1{
-        padding: 4px;
+        padding: 10px;
         margin: auto;
     }
 
     .pt1 p{
-        font-size: 1em;
         margin-bottom: 40px;
     }
     section button{
         width: 250px;
-        height: 50px;
+        height: 59px;
         margin: auto;
         margin-bottom: 150px;
+
     }
 
     .artigo{
-        font-size: 0.4em;
+        font-size: 0.2em;
     }
 }
 
@@ -219,7 +220,7 @@ section button:hover{
 
 .div-artigo{
     display: block;
-    padding: 40px;
+    padding: 20px;
     background-color: #c6c0ce;
     box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.315)
    
